@@ -1,0 +1,20 @@
+body
+{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+h1
+{
+    font-family: sans-serif;
+}
+img{
+    max-width: 700px;
+    max-height: 700px;
+}
+button
+{
+    height: 50px;
+    width: 100px;
+    background-color: darkcyan;
+    border-radius: 20px;
+}

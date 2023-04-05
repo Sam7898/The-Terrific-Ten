@@ -1,0 +1,22 @@
+body
+{
+    background-color: antiquewhite;
+}
+h1{
+    font-family: sans-serif;
+}
+img{
+    max-width: 1000px;
+    max-height: 1000px;
+}
+button
+{
+    height: 50px;
+    width: 100px;
+    background-color: darkcyan;
+    border-radius: 20px;
+}
+p
+{
+    text-size-adjust: 20px;
+}
